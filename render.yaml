@@ -1,9 +1,0 @@
-services:
-# A Docker web service
-- type: web
-  name: webdis
-  env: docker
-  repo: https://github.com/sagirisayang/cloud-torrent # optional
-  plan: starter              # optional
-  branch: master              # optional (uses repo default)
-  healthCheckPath: /
