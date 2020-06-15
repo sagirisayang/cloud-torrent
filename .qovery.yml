@@ -1,6 +1,6 @@
 application:
   name: cloud-torrent
-  project: "Yes"
+  project: awaw
   cloud_region: aws/eu-west-3
   publicly_accessible: true
 routers:
